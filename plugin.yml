@@ -1,0 +1,10 @@
+name: PortalProtection
+version: 1.0
+author: x1D
+
+main: Main.Main
+
+commands:
+  portalprotection:
+    description: Add or delete portals!
+    aliases: [pp]
